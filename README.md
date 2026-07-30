@@ -1,5 +1,5 @@
 #  About Me:
-Hi my name is Mohamed Anis Ben Azza a 3rd year CS student @ USTHB with AI specialization .<br>I'm focused mainly on AI/ML development and building Web applications.
+Hi my name is Mohamed Anis Ben Azza a 4th  year CS student @ USTHB with AI specialization .<br>I'm focused mainly on AI/ML development and building Web applications.
 
 
 ##  Socials:
